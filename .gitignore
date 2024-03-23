@@ -1,0 +1,13 @@
+internal/pycolmap
+__pycache__/
+interal/__pycache__/
+tests/__pycache__/
+.DS_Store
+.vscode/
+.idea/
+__MACOSX/
+data/
+ckpts/
+ckpts2/
+nerf_llff_data/
+*.zip
